@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-MapmyIndia Mappls (C.E. Info Systems Ltd.) is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://www.mapmyindia.com
+MapmyIndia Mappls (C.E. Info Systems Ltd.) provides comprehensive mapping, location intelligence, and IoT solutions across India. Their platform offers APIs for maps, geocoding, routing, traffic, and advanced services like 4D maps, drone services, and AI-driven analytics. Serving enterprises, developers, and government agencies, MapmyIndia enables integration of real‑world spatial data into applications, supporting navigation, asset tracking, and location‑based services.
+
+**Areas:** Company · Mapping · Location-Intelligence · IoT · APIs · Enterprise
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.mapmyindia.com)
+- [Documentation](https://about.mappls.com/)
+- [API reference](https://about.mappls.com/api)
+- [Pricing](https://about.mappls.com/pricing)
+- [Support](https://about.mappls.com/contact)
+- [Blog](https://about.mappls.com/blog)
+- [Terms of service](https://about.mappls.com/terms)
+- [Privacy policy](https://about.mappls.com/privacy)
+- [GitHub](https://github.com/MapmyIndia)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/mapmyindia-mappls-c-e-info-systems-ltd/](https://apis.io/providers/mapmyindia-mappls-c-e-info-systems-ltd/).
